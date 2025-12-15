@@ -1,12 +1,36 @@
 {
   "musicas": [
-    { "nome": "Quem é esse?", "arquivo": "quem-e-esse.html" },
-    { "nome": "Inflama", "arquivo": "inflama.html" },
-    { "nome": "O Nascimento de Jesus", "arquivo": "o-nascimento-de-jesus.html" },
-    { "nome": "Casa de Benção", "arquivo": "casa-de-bencao.html" },
-    { "nome": "Remanescentes", "arquivo": "remanescente.html" },
-    { "nome": "Eis me aqui", "arquivo": "eis-me-aqui.html" },
-    { "nome": "João 20 + Pra Sempre", "arquivo": "joao-20-pra-sempre.html" },
-    { "nome": "Medley Pentecostal", "arquivo": "medley-pentecostal.html" }
+    {
+      "nome": "Quem é Esse?",
+      "letra": "COLE A LETRA AQUI"
+    },
+    {
+      "nome": "Inflama",
+      "letra": "COLE A LETRA AQUI"
+    },
+    {
+      "nome": "O Nascimento de Jesus",
+      "letra": "COLE A LETRA AQUI"
+    },
+    {
+      "nome": "Casa de Benção",
+      "letra": "COLE A LETRA AQUI"
+    },
+    {
+      "nome": "Remanescentes",
+      "letra": "COLE A LETRA AQUI"
+    },
+    {
+      "nome": "Eis me aqui",
+      "letra": "COLE A LETRA AQUI"
+    },
+    {
+      "nome": "João 20 + Pra Sempre",
+      "letra": "COLE A LETRA AQUI"
+    },
+    {
+      "nome": "Medley Pentecostal",
+      "letra": "COLE A LETRA AQUI"
+    }
   ]
 }
